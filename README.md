@@ -76,6 +76,7 @@ Add undo/redo functionality.
 
 Author
 Khadija Bouadi
-  Email: bouadik02@gmail.com
+  Email: khadijabouadi00@gmail.com
   GitHub: khadibd
+
 
