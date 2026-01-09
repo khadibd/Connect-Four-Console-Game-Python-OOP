@@ -64,6 +64,8 @@ Player X give the column to play: 3
  ['-', '-', '-', 'X', '-', '-', '-'],
  ['-', '-', '-', '-', '-', '-', '-']]
 
+
+
 Future Improvements
 
 Add a Graphical User Interface (GUI) using Pygame or Tkinter.
@@ -76,3 +78,4 @@ Author
 Khadija Bouadi
   Email: bouadik02@gmail.com
   GitHub: khadibd
+
