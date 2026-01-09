@@ -30,7 +30,7 @@ This is a simple \*\*Connect Four\*\* game implemented in Python using object-or
 
 ```bash
 
-git clone https://github.com/yourusername/ConnectFourGame.git
+git clone https://github.com/khadibd/Connect-Four-Console-Game-Python-OOP
 
 
 2\. Navigate to the folder:
@@ -78,5 +78,6 @@ Author
 Khadija Bouadi
   Email: khadijabouadi00@gmail.com
   GitHub: khadibd
+
 
 
