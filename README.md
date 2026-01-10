@@ -40,7 +40,7 @@ git clone https://github.com/khadibd/Connect-Four-Console-Game-Python-OOP
 ```bash
 
 cd ConnectFourGame
-
+```
 
 
 3\. Run the game:
@@ -49,7 +49,7 @@ cd ConnectFourGame
 ```bash
 
 python connect_game.py
-
+```
 
 
 4\. Follow the prompts to enter the column number for your move.
@@ -64,21 +64,17 @@ Player X give the column to play: 3
  ['-', '-', '-', '-', '-', '-', '-'],
  ['-', '-', '-', 'X', '-', '-', '-'],
  ['-', '-', '-', '-', '-', '-', '-']]
+```
 
 
 
-Future Improvements
-
-Add a Graphical User Interface (GUI) using Pygame or Tkinter.
-Add AI opponent with difficulty levels.
-Improve the win checking algorithm for efficiency.
-Add undo/redo functionality.
 
 
 Author
-Khadija Bouadi
+Eng. Khadija Bouadi
   Email: khadijabouadi00@gmail.com
   GitHub: khadibd
+
 
 
 
