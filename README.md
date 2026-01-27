@@ -1,30 +1,30 @@
-\# Connect Four Game in Python
+# Connect Four Game in Python
 
 
 
-This is a simple \*\*Connect Four\*\* game implemented in Python using object-oriented programming. The game allows two players to take turns and place their tokens (`X` or `O`) in a 6x7 grid. The first player to connect four tokens horizontally, vertically, or diagonally wins!
+This is a simple Connect Four game implemented in Python using object-oriented programming. The game allows two players to take turns and place their tokens (`X` or `O`) in a 6x7 grid. The first player to connect four tokens horizontally, vertically, or diagonally wins!
 
 
 
-\## Features
+## Features
 
 
 
-\- 6x7 game board displayed in the console.
+- 6x7 game board displayed in the console.
 
-\- Two-player mode (no AI, human vs human).
+- Two-player mode (no AI, human vs human).
 
-\- Input validation for column selection.
+- Input validation for column selection.
 
-\- Automatic checking for winning conditions in all directions.
-
-
-
-\## How to Run
+- Automatic checking for winning conditions in all directions.
 
 
 
-1\. Clone this repository:
+## How to Run
+
+
+
+1. Clone this repository:
 
 
 
@@ -34,7 +34,7 @@ git clone https://github.com/khadibd/Connect-Four-Console-Game-Python-OOP
 ```
 
 
-2\. Navigate to the folder:
+2. Navigate to the folder:
 
 
 ```bash
@@ -43,7 +43,7 @@ cd ConnectFourGame
 ```
 
 
-3\. Run the game:
+3. Run the game:
 
 
 ```bash
@@ -52,7 +52,7 @@ python connect_game.py
 ```
 
 
-4\. Follow the prompts to enter the column number for your move.
+4. Follow the prompts to enter the column number for your move.
 Example
 
 ```less
@@ -81,6 +81,7 @@ For any queries, reach out to:
 GitHub: @khadibd
 
 Email: khadibd00@gmail.com
+
 
 
 
