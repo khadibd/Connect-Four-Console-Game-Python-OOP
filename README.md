@@ -67,8 +67,6 @@ Player X give the column to play: 3
 ```
 
 
-
-
 ### 👩‍💻 Author
 
 Eng. Khadija Bouadi
@@ -81,6 +79,7 @@ For any queries, reach out to:
 GitHub: @khadibd
 
 Email: khadibd00@gmail.com
+
 
 
 
